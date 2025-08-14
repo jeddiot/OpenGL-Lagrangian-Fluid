@@ -1,0 +1,33 @@
+# Build folders
+/build/
+/x64/
+/*.exe
+/*.dll
+/*.lib
+/*.pdb
+
+# CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+.cmake/
+
+# Visual Studio files
+*.vcxproj
+*.vcxproj.filters
+*.sln
+.vs/
+
+# OS-specific files
+Thumbs.db
+.DS_Store
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Ignore OpenGL requirement archives folder
+/openGL_requirement_archive/
