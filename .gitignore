@@ -19,6 +19,7 @@ compile_commands.json
 *.vcxproj.filters
 *.sln
 .vs/
+.vscode/
 
 # OS-specific files
 Thumbs.db
